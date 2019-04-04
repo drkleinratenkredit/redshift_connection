@@ -19,7 +19,7 @@ lapply(packages, require, character.only = TRUE)
 Sys.setenv("drklein.dbname" = "dbname", "drklein.host" = "host", "drklein.port" = "port", "drklein.user" = "user", "drklein.password" = "passwort")
 ```
 
-### Main.R ausführen
+### redshift_db.R oder redshift_dbx.R ausführen
 
 Ergbnis ist eine Übersicht über alle existierenden Tabellen im Redshift Shema.
 
