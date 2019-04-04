@@ -23,3 +23,4 @@ Sys.setenv("drklein.dbname" = "dbname", "drklein.host" = "host", "drklein.port" 
 
 Ergbnis ist eine Übersicht über alle existierenden Tabellen im Redshift Shema.
 
+Hier stehen die bekannten Tabellen *Bausteine*, *Vorgänge*, *Teilanträge* und *Provisionen* zur Verfügung. Zusätzlich  befinden sich in den Tabellen *Partner* und *Partnerrelationen* Informationen zur Partnerstruktur.
